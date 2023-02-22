@@ -25,7 +25,8 @@
 - What is the background of your project?
   - We have been given images of 9 different disease and we have to build a model which accurately classifies a major common skin cancer type- Melonoma
 - What is the dataset that is being used?
-  -The Dataset which we were provided it weas divide into train and test and the train folder it was further bifurcated into 9 different skin diseases, the name of the root folder was Skin Cancer ISIC The Internation Skin Imaging Collaboration
+
+    -The Dataset which we were provided it weas divide into train and test and the train folder it was further bifurcated into 9 different skin diseases, the name of the root folder was Skin Cancer ISIC The Internation Skin Imaging Collaboration
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -43,25 +44,24 @@
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Pandas - 
+- Tensorflow - version 2.11
+- Numpy - version 3.0
+- Python - version 3.9
+- Jupyter Notebook - version 6.5.2
+- Google Colab
+- glob - 0.7
+- os
+
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- https://www.tensorflow.org/ Everything was referred from the documentation of tensorflow
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@basil-16] 
 
 
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
 
-<!-- You don't have to include all sections - just the one's relevant to your project -->
